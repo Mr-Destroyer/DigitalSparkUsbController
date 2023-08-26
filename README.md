@@ -18,15 +18,21 @@ ONLY FOR EDUCATIONAL PURPOSES.
 
 [![Header](https://i.pcmag.com/imagery/articles/034Ds0HEhPXYGjpU93Ceu5H-4..v1641502294.jpg "Header")](https://www.pcmag.com)
 
-'''json
+'''
 
 {
 	Developers{
+ 
 		sparkhandler{
+  
 			"name":"Mr Root"
+   
 		}
+  
 		stealer and main concept{
+  
 			"name": "Mr Destroyer" aka "Mohammad Zim"
+   
 		}
 	
 	}
